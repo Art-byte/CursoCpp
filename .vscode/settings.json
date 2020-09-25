@@ -2,5 +2,6 @@
     "files.associations": {
         "cmath": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "python.pythonPath": "/usr/local/bin/python3.8"
 }
