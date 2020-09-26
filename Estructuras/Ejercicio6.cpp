@@ -17,11 +17,11 @@ struct atleta
 int main(){
 
     int numAtletas;
-    int mayor=0, menor= 100, masMeda=0; 
+    int mayor=0, masMeda=0; 
 
     cout<<"Ingresa el numero de atletas que participan: ";
     cin>>numAtletas;
-    cout<<"\n"
+    cout<<"\n";
 
     for(int i=0; i<numAtletas; i++){
         cin.ignore();
